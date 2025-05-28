@@ -1,0 +1,2 @@
+# -Chemical-Reaction-Quiz-Game-Real-Time-Educational-Software-for-Chemistry-Learners
+Developed a cross-platform interactive educational application using Python and PyQt5 to gamify the learning of chemical reactions. The game presents real-time quizzes based on a dynamic CSV database of chemical reactions, providing timed challenges, reaction hints, sound effects, and visual aid through a built-in 3D periodic table.
